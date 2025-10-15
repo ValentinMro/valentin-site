@@ -1,0 +1,3 @@
+.fade-in {
+  animation: initialFadeIn 2s ease-out forwards;
+}

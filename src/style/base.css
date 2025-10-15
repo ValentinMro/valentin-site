@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f0f0f; /* dunkler Hintergrund */
+  color: #e0e0e0;            /* heller Text */
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+  overflow-x: hidden;
+}
+
+
