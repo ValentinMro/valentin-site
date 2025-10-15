@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_site",
+  "version": "1.0.0",
+  "description": "Just for fun -> Trying to get used to programming again",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinMro/valentin-site.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "Valentin Morio",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ValentinMro/valentin-site/issues"
+  },
+  "homepage": "https://github.com/ValentinMro/valentin-site#readme"
+}
